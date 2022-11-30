@@ -1,5 +1,3 @@
-console.log("Hi");
-
 $(function () {
   var header = $("#header"),
     introH = $("#intro").innerHeight();
