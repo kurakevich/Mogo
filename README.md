@@ -1,1 +1,1 @@
-# Mogo
+# https://kurakevich.github.io/Mogo/
