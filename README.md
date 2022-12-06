@@ -1,1 +1,1 @@
-# https://kurakevich.github.io/Mogo/
+https://kurakevich.github.io/Mogo/
